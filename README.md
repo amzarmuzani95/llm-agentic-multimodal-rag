@@ -19,11 +19,16 @@ LLM Tutorial: Agentic solution to multimodal RAG for large, complex PDF files
 
 ## Set-up Ollama
 1. Download and install Ollama application from https://ollama.com/
-2. Download and run any model locally using the following command
+2. Download and run Llama 3.2 vision model locally using the following command
 
 ```
-ollama run <MODEL_NAME>
+ollama run llama3.2-vision:11b-instruct-q4_K_M
 ```
+
+Above command should download the model and run it on your machine. You can test it by typing a random question in the command-line terminal after the command-run completes.
+
+## Setup Jupyter Notebooks
+You'll need a local setup to run Jupyter Notebooks on your machine. Use this link to set it up - https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html. I have been using it with VS Code as my code editor.
 
 ## Run the code
 Open the notebook `llm_pdf.ipynb` and run notebook cells sequentially from the start. Modify notebook cell content to experiment and change values as required.
