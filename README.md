@@ -33,4 +33,4 @@ You'll need a local setup to run Jupyter Notebooks on your machine. Use this lin
 ## Run the code
 Open the notebook `llm_pdf.ipynb` and run notebook cells sequentially from the start. Modify notebook cell content to experiment and change values as required.
 
-For details on this tutorial, refer to this free Medium article - <LINK> 
+For details on this tutorial, refer to this free Medium article - [Agentic RAG solution for LLMs which can understand PDFs with multiple images and diagrams](https://medium.com/@avneesh.khanna/agentic-rag-solution-for-llms-which-can-understand-pdfs-with-mutliple-images-and-diagrams-b154eea5f022)
