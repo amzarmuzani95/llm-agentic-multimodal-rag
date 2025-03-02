@@ -1,5 +1,5 @@
-# llm-tutorial-agentic-multimodal-rag
-LLM Tutorial: Agentic solution to multimodal RAG for large, complex PDF files
+# llm-agentic-multimodal-rag
+LLM Agentic solution to multimodal RAG for large, complex PDF files
 
 
 
